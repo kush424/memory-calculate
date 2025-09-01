@@ -26,7 +26,7 @@ Menu options:
 - 5: Exit
 
 Note:
-- Current input for Name uses cin >> name, so it accepts a single word only (e.g., “Rahul”, not “Rahul Sharma”).
+- Current input for Name uses cin >> name, so it accepts a single word only (e.g., "Kush”, not “Kush Patel”).
 
 ## Example Session
 ```
